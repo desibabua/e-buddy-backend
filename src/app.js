@@ -6,7 +6,7 @@ const { Sessions } = require('../lib/sessions');
 const homeDetails = require('../data/home.json');
 
 const { authenticate, login } = require('./oAuth');
-const { getUser} = require('./handlers');
+const { getUser, getProducts, getProduct } = require('./handlers');
 
 const app = express();
 
@@ -23,6 +23,8 @@ app.use((req, res, next) => {
 app.get('/authenticate/:page', authenticate);
 app.get('/api/login', login);
 app.get('/api/home', (req, res) => res.json(homeDetails));
-app.get('/getUser', getUser);
+app.get('/api/getUser', getUser);
+app.get('/api/products/:category', getProducts);
+app.get('/api/product/:id', getProduct);
 
 module.exports = { app };
