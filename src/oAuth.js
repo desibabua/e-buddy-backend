@@ -31,11 +31,10 @@ const authenticate = function (req, res) {
 const login = function (req, res) {
   const { dataBase, sessions } = req.app.locals;
   getUserDetails(req.query.code).then(({ login, name }) => {
-    if (dataBase[login]) {
-      return res.end('do logIn');
+    if (!dataBase[login]) {
+      dataBase[login] = { name };
     }
-    dataBase[login] = { name };
-    res.cookie('id', sessions.setCookie(login));
+    res.cookie('id', sessions.setSession(login));
     res.redirect(`http://localhost:3000/`);
   });
 };
