@@ -21,15 +21,9 @@ const getUserDetails = async (code) => {
   }).then((x) => x.json());
 };
 
-const login = function (req, res) {
-  const url = `https://github.com/login/oauth/authorize?response_type=code&client_id=${CLIENT_ID}`;
-  const redirection_url = `&redirect_uri=${REDIRECT_URI}`;
-  res.redirect(url + redirection_url);
-};
-
 const register = function (req, res) {
   const { dataBase, sessions } = req.app.locals;
-  getUserDetails(req.query.code).then(({ login, name }) => {
+  getUserDetails(req.query.code).then(({login, name}) => {
     if (!dataBase[login]) {
       dataBase[login] = { name };
     }
@@ -38,4 +32,17 @@ const register = function (req, res) {
   });
 };
 
-module.exports = { register, login };
+const login = function (req, res) {
+  const url = `https://github.com/login/oauth/authorize?response_type=code&client_id=${CLIENT_ID}`;
+  const redirection_url = `&redirect_uri=${REDIRECT_URI}`;
+  res.redirect(url + redirection_url);
+};
+
+const logout = function (req, res) {
+  const {sessions} = req.app.locals;
+  const {id} = req.cookies;
+  sessions.deleteSession(id) && res.clearCookie(id);
+  res.redirect(`http://localhost:3000/`);
+};
+
+module.exports = { register, login, logout };

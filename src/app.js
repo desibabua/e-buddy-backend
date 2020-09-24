@@ -5,12 +5,14 @@ const cookieParser = require('cookie-parser');
 const { Sessions } = require('../lib/sessions');
 const homeDetails = require('../data/home.json');
 
-const { register, login } = require('./oAuth');
+const { register, login, logout } = require('./oAuth');
 const {
   getUser,
   getProducts,
   getProduct,
   getSearchedProducts,
+  getProductReviews,
+  addReview,
 } = require('./handlers');
 
 const app = express();
@@ -18,6 +20,7 @@ const app = express();
 app.locals.dataBase = {};
 app.locals.sessions = new Sessions();
 
+app.use(express.json());
 app.use(cookieParser());
 app.use(express.static('public'));
 app.use((req, res, next) => {
@@ -26,11 +29,14 @@ app.use((req, res, next) => {
 });
 
 app.get('/api/login', login);
+app.get('/api/logout', logout);
 app.get('/api/register', register);
 app.get('/api/home', (req, res) => res.json(homeDetails));
 app.get('/api/getUser', getUser);
+app.get('/api/search', getSearchedProducts);
 app.get('/api/product/:id', getProduct);
 app.get('/api/products/:category', getProducts);
-app.get('/api/search', getSearchedProducts);
+app.get('/api/review/:id', getProductReviews);
+app.post('/api/addReview', addReview);
 
 module.exports = { app };

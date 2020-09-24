@@ -1,12 +1,13 @@
+const { writeFile } = require('fs');
 const _ = require('lodash');
 const productDetails = require('../data/productDetails.json');
+let productReviews = require('../data/productReviews.json');
 
 const getUser = function (req, res) {
   const { sessions, dataBase } = req.app.locals;
   const { id } = req.cookies;
-  const name = dataBase[sessions.getSession(id)];
-  const user = name ? { name } : null;
-  return res.json({ user });
+  const user = dataBase[sessions.getSession(id)];
+  return res.json(user || {});
 };
 
 const getProduct = function (req, res) {
@@ -29,4 +30,42 @@ const getSearchedProducts = function (req, res) {
   res.json(products);
 };
 
-module.exports = { getUser, getProducts, getProduct, getSearchedProducts };
+const getProductReviews = function (req, res) {
+  const { id } = req.params;
+  const reviews = _.filter(productReviews, { productId: id });
+  res.json(reviews);
+};
+
+const addReview = function (req, res) {
+  const { owner, productId, review } = req.body;
+  productReviews = [
+    {
+      id: productReviews.length + 1,
+      productId,
+      owner,
+      review,
+      timeStamp: new Date(),
+    },
+    ...productReviews,
+  ];
+  writeFile(
+    './data/productReviews.json',
+    JSON.stringify(productReviews),
+    (err) => {
+      if (err) {
+        console.log(err);
+        return res.json([]);
+      }
+      return res.json(productReviews);
+    }
+  );
+};
+
+module.exports = {
+  getUser,
+  getProducts,
+  getProduct,
+  getSearchedProducts,
+  getProductReviews,
+  addReview,
+};
