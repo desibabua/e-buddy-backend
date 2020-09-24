@@ -21,14 +21,13 @@ const getUserDetails = async (code) => {
   }).then((x) => x.json());
 };
 
-const authenticate = function (req, res) {
-  const { page } = req.params;
+const login = function (req, res) {
   const url = `https://github.com/login/oauth/authorize?response_type=code&client_id=${CLIENT_ID}`;
-  const redirection_url = `&redirect_uri=${REDIRECT_URI + page}`;
+  const redirection_url = `&redirect_uri=${REDIRECT_URI}`;
   res.redirect(url + redirection_url);
 };
 
-const login = function (req, res) {
+const register = function (req, res) {
   const { dataBase, sessions } = req.app.locals;
   getUserDetails(req.query.code).then(({ login, name }) => {
     if (!dataBase[login]) {
@@ -39,4 +38,4 @@ const login = function (req, res) {
   });
 };
 
-module.exports = { authenticate, login };
+module.exports = { register, login };

@@ -5,7 +5,7 @@ const cookieParser = require('cookie-parser');
 const { Sessions } = require('../lib/sessions');
 const homeDetails = require('../data/home.json');
 
-const { authenticate, login } = require('./oAuth');
+const { register, login } = require('./oAuth');
 const {
   getUser,
   getProducts,
@@ -25,8 +25,8 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get('/authenticate/:page', authenticate);
 app.get('/api/login', login);
+app.get('/api/register', register);
 app.get('/api/home', (req, res) => res.json(homeDetails));
 app.get('/api/getUser', getUser);
 app.get('/api/product/:id', getProduct);
