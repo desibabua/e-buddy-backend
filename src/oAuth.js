@@ -28,7 +28,7 @@ const register = function (req, res) {
       dataBase[login] = { name };
     }
     res.cookie('id', sessions.setSession(login));
-    res.redirect(`http://localhost:3000/`);
+    res.redirect(`http://localhost:8000/`);
   });
 };
 
@@ -42,7 +42,7 @@ const logout = function (req, res) {
   const {sessions} = req.app.locals;
   const {id} = req.cookies;
   sessions.deleteSession(id) && res.clearCookie(id);
-  res.redirect(`http://localhost:3000/`);
+  res.redirect(`http://localhost:8000/`);
 };
 
 module.exports = { register, login, logout };

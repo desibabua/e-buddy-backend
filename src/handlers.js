@@ -56,7 +56,7 @@ const addReview = function (req, res) {
         console.log(err);
         return res.json([]);
       }
-      return res.json(productReviews);
+      return res.json(_.filter(productReviews, { productId }));
     }
   );
 };
