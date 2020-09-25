@@ -1,6 +1,8 @@
 require('dotenv').config();
 
+const path = require('path');
 const express = require('express');
+
 const cookieParser = require('cookie-parser');
 const { Sessions } = require('../lib/sessions');
 const homeDetails = require('../data/home.json');
@@ -37,6 +39,11 @@ app.get('/api/search', getSearchedProducts);
 app.get('/api/product/:id', getProduct);
 app.get('/api/products/:category', getProducts);
 app.get('/api/review/:id', getProductReviews);
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname + '/../public/index.html'));
+});
+
 app.post('/api/addReview', addReview);
 
 module.exports = { app };
