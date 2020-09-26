@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const { CLIENT_ID, CLIENT_SECRET, REDIRECT_URI } = process.env;
+const { CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, HOME_URL } = process.env;
 
 const getAccessToken = (code) => {
   return fetch('https://github.com/login/oauth/access_token', {
@@ -23,12 +23,12 @@ const getUserDetails = async (code) => {
 
 const register = function (req, res) {
   const { dataBase, sessions } = req.app.locals;
-  getUserDetails(req.query.code).then(({login, name}) => {
+  getUserDetails(req.query.code).then(({ login, name }) => {
     if (!dataBase[login]) {
       dataBase[login] = { name };
     }
     res.cookie('id', sessions.setSession(login));
-    res.redirect(`http://localhost:8000/`);
+    res.redirect(HOME_URL);
   });
 };
 
@@ -39,10 +39,10 @@ const login = function (req, res) {
 };
 
 const logout = function (req, res) {
-  const {sessions} = req.app.locals;
-  const {id} = req.cookies;
+  const { sessions } = req.app.locals;
+  const { id } = req.cookies;
   sessions.deleteSession(id) && res.clearCookie(id);
-  res.redirect(`http://localhost:8000/`);
+  res.redirect(HOME_URL);
 };
 
 module.exports = { register, login, logout };
