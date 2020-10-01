@@ -20,5 +20,4 @@ cp -r ./E-buddy/build/* ./public
 
 echo "removing un-neccessary file"
 rm -rf node_modules
-tree .
 rm -rf E-buddy
