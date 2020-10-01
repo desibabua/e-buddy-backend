@@ -4,6 +4,7 @@
   "description": "",
   "main": "node server.js",
   "scripts": {
+    "beforeDeploy": "./deploy.sh",
     "test": "echo \" no test specified\" && exit 0"
   },
   "repository": {
