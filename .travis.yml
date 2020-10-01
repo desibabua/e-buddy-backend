@@ -3,7 +3,7 @@ node_js: lts/*
 
 install: npm install
 
-script: npm run beforeDeploy
+script: ./deploy.sh
 
 deploy:
   provider: heroku
@@ -11,3 +11,4 @@ deploy:
   api_key:
     secure: Ht5Fr8hjxkYUyM8g+oxOJ2RcA4LBv3XFx36hiBwKMuEwPZf56oLfztP+8r0R8y5Fg0dfawyISUkEJNdKJs4T7BhyN4Wp9gT0/Zfuke7z3x1mRMTYxzhlCH4VcGq2fsyTg5x1Sy2cePCSq/wfNxTy76YyF8YDBoWL7uO/h5F0AofaT58JyAr6k5lMfkGVZD7bzyPM3Ix3W5JHrShzzkcSyPu4J0LBavc0tDQTuVBJ1MpBOBUkufhpxNQ0rqjunv/5zDDjdEfOtUaUB0kyICRhmLiKViy1VAXKFht9idfAQmIarYzRdpiwZo0RYErgSDVs46h8qjW5xb8yDgR0P0j7F5A/XTH8cP113AMc6te62A7PKIDVNtpSMXd+Z3nJDc0yb2n/RKA6W2g1UHZkwQzlKBiAHI3sKs1EtHUcrtsRkZ5KNSWpIvUOTGru4/W7GbFjHBTbGys6wHD6oAiIs43QVs+/Ewafv2DuhdBr/z87yyY8Vsgw8sKx4iR1n697nYyfDXuosj+CFsm1Hchz/5U3LBQPhvxr+QaxR1pX48Bvj3qPIl21z4RZLTWxzotR2OKJvtrWUgLWtwtlXfP8gMAJ41LtdsSc3GSOXzekMITWMhWME71p+khLEDFMXv9jbPX6U/kZxXHN/9G0t+1WzW4nl2eR++MvzhCw9uPSXdzyGUc=
   skip_cleanup: true
+  run: restart
