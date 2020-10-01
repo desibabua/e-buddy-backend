@@ -8,7 +8,7 @@ git clone https://github.com/desibabua/E-buddy.git 2> /dev/null
 echo "Installing dependencies..."
 cd E-buddy
 npm install
-npm test
+npm run test
 
 echo "Creating build..."
 npm run build
