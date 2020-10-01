@@ -9,9 +9,9 @@ echo 'Installing dependencies...'
 npm install 2> /dev/null
 npm test
 
+echo 'Cloning frontend ...'
 cd ..
 rm -rf ${FRONTEND}
-echo 'Cloning frontend ...'
 git clone https://github.com/${USER_NAME}/${FRONTEND}.git 2> /dev/null
 cd ${FRONTEND}
 
@@ -20,6 +20,7 @@ npm install 2> /dev/null
 npm test
 
 echo 'Creating build ...'
+pwd
 npm run build 2> /dev/null
 
 echo 'Merging build ...'
