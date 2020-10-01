@@ -17,4 +17,5 @@ npm run build
 cd ..
 echo "Started merging..."
 mkdir public
-cp -r ./E-buddy/build/* ./public       
+cp -r ./E-buddy/build/* ./public 
+rm -rf E-buddy        
