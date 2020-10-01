@@ -16,5 +16,9 @@ npm run build
 cd ..
 echo "Started merging..."
 mkdir public
-cp -r ./E-buddy/build/* ./public 
+cp -r ./E-buddy/build/* ./public
+
+echo "removing un-neccessary file"
+rm -rf node_modules
+tree .
 rm -rf E-buddy
