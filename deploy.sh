@@ -27,10 +27,10 @@ mkdir -p ../public
 mv build/* ../public/.
 cd ../${BACKEND}
 rm .travis.yml
+cd ..
+cp -r ${BACKEND}/* ./
 
 echo 'Removing un-neccessaries...'
-cd ..
 rm -rf ${FRONTEND}
-mv ${BACKEND}/* ${BACKEND}/.* .
 rm -rf ${BACKEND}
 echo 'Process completed...'  
