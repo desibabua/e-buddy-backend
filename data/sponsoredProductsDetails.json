@@ -1,0 +1,164 @@
+{
+    "all": {},
+    "clothes": {
+        "products": [
+            {
+                "id": "B07H7L38QX",
+                "title": "Mimosa Art silk saree Kanjivarm Pattu style With Contrast Blouse Color: Orange (4309-312-GR-PCH-RMA)",
+                "price": {
+                    "discounted": true,
+                    "currentPrice": 1781,
+                    "currency": "INR",
+                    "beforePrice": 6099,
+                    "savings": 4318,
+                    "savingsPercent": 70.8
+                },
+                "rating": 3.6,
+                "imgUrl": "https://m.media-amazon.com/images/I/916LBU7eMSL._AC_UL320_.jpg",
+                "category": [
+                    "all",
+                    "women",
+                    "clothes"
+                ],
+                "isSponsored": false
+            },
+            {
+                "id": "B01AM3EBJK",
+                "title": "Raymond Men's Poly Cotton Unstitched 1.3 m Trouser Fabric (Black, Free Size)",
+                "price": {
+                    "discounted": true,
+                    "currentPrice": 489,
+                    "currency": "INR",
+                    "beforePrice": 899,
+                    "savings": 410,
+                    "savingsPercent": 45.61
+                },
+                "rating": 3.8,
+                "imgUrl": "https://m.media-amazon.com/images/I/71azASYPK4L._AC_UL320_.jpg",
+                "category": [
+                    "all",
+                    "men",
+                    "clothes"
+                ],
+                "isSponsored": false
+            }
+        ]
+    },
+    "men": {
+        "products": []
+    },
+    "women": {
+        "products": []
+    },
+    "electronics": {
+        "products": []
+    },
+    "phone": {
+        "products": [{
+                "id": "B07HGGYWL6",
+                "title": "Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)",
+                "price": {
+                    "discounted": false,
+                    "currentPrice": 17499,
+                    "currency": "INR",
+                    "beforePrice": 0,
+                    "savings": 0,
+                    "savingsPercent": 0
+                },
+                "rating": 4.3,
+                "imgUrl": "https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY218_.jpg",
+                "category": [
+                    "all",
+                    "phone"
+                ],
+                "isSponsored": false
+            },
+            {
+                "id": "B0079JZ4O2",
+                "title": "Samsung Guru 1200 (GT-E1200, Black)",
+                "price": {
+                    "discounted": false,
+                    "currentPrice": 1410,
+                    "currency": "INR",
+                    "beforePrice": 0,
+                    "savings": 0,
+                    "savingsPercent": 0
+                },
+                "rating": 4.2,
+                "imgUrl": "https://m.media-amazon.com/images/I/81lO53zfDDL._AC_UY218_.jpg",
+                "category": [
+                    "all",
+                    "phone"
+                ],
+                "isSponsored": false
+            },
+            {
+                "id": "B07HGJJ559",
+                "title": "Samsung Galaxy M21 (Midnight Blue, 4GB RAM, 64GB Storage)",
+                "price": {
+                    "discounted": true,
+                    "currentPrice": 13999,
+                    "currency": "INR",
+                    "beforePrice": 15999,
+                    "savings": 2000,
+                    "savingsPercent": 12.5
+                },
+                "rating": 4.2,
+                "imgUrl": "https://m.media-amazon.com/images/I/71dujTTJDZL._AC_UY218_.jpg",
+                "category": [
+                    "all",
+                    "phone"
+                ],
+                "isSponsored": false
+            }
+        ]
+    },
+    "sports": {
+        "products": []
+    },
+    "books": {
+        "products": []
+    },
+    "watch" : {
+        "products": [
+            {
+                "id": "B079RG57K4",
+                "title": "ACUTAS Round Edge Tempered Glass Screen Protector for Samsung Gear Sport Smartwatch",
+                "price": {
+                    "discounted": true,
+                    "currentPrice": 149,
+                    "currency": "INR",
+                    "beforePrice": 499,
+                    "savings": 350,
+                    "savingsPercent": 70.14
+                },
+                "rating": 3.5,
+                "imgUrl": "https://m.media-amazon.com/images/I/71HxPenV4sL._AC_UL320_.jpg",
+                "category": [
+                    "all",
+                    "sports"
+                ],
+                "isSponsored": false
+            },
+            {
+                "id": "B083R6LH2M",
+                "title": "Caviot Sports Multi-Functional Analog-Digital Multicolour Dial Women's Watch - CWADG3702",
+                "price": {
+                    "discounted": true,
+                    "currentPrice": 549,
+                    "currency": "INR",
+                    "beforePrice": 1999,
+                    "savings": 1450,
+                    "savingsPercent": 72.54
+                },
+                "rating": 4,
+                "imgUrl": "https://m.media-amazon.com/images/I/81hMgv4gTGL._AC_UL320_.jpg",
+                "category": [
+                    "all",
+                    "sports"
+                ],
+                "isSponsored": false
+            }
+        ]
+    }
+}

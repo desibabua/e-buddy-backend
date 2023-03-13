@@ -1,6 +1,7 @@
 const { writeFile } = require('fs');
 const _ = require('lodash');
 const productDetails = require('../data/productDetails.json');
+const sponsoredProductDetails = require('../data/sponsoredProductsDetails.json');
 let productReviews = require('../data/productReviews.json');
 
 const getUser = function (req, res) {
@@ -18,8 +19,14 @@ const getProduct = function (req, res) {
 
 const getProducts = function (req, res) {
   const { category } = req.params;
-  const products = _.filter(productDetails, { category: [category] });
-  res.json(products);
+  const sponsoredProducts = _.filter(productDetails, { category: [category], isSponsored: true });
+  const products = _.filter(productDetails, { category: [category], isSponsored: false });
+  res.json([...sponsoredProducts, ...products]);
+};
+
+const getSponsoredProducts = function (req, res) {
+  const { category } = req.params;
+  res.json(sponsoredProductDetails[category].products);
 };
 
 const getSearchedProducts = function (req, res) {
@@ -27,7 +34,9 @@ const getSearchedProducts = function (req, res) {
   const products = _.filter(productDetails, (product) =>
     _.includes(_.lowerCase(product.title), _.lowerCase(input))
   );
-  res.json(products);
+  const sponsoredProductsInSearchResult = _.filter(products, { isSponsored: true });
+  const nonSponsoredProductsInSearchResult = _.filter(products, { isSponsored: false });
+  res.json([...sponsoredProductsInSearchResult, ...nonSponsoredProductsInSearchResult]);
 };
 
 const getProductReviews = function (req, res) {
@@ -65,6 +74,7 @@ module.exports = {
   getUser,
   getProducts,
   getProduct,
+  getSponsoredProducts,
   getSearchedProducts,
   getProductReviews,
   addReview,

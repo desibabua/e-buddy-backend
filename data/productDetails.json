@@ -12,7 +12,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083BZ97FF",
@@ -27,7 +31,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/91Pc9HRArSL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B08444X3CN",
@@ -42,7 +51,11 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71-nSoWl8iL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B084LGTG2C",
@@ -57,7 +70,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/41VhfaQxaiL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B086985T6R",
@@ -72,7 +90,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71uZrDPrsRL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0852GY62C",
@@ -87,7 +109,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/819rIWiTo8L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08BXPWMCL",
@@ -102,7 +129,12 @@
     },
     "rating": 3.1,
     "imgUrl": "https://m.media-amazon.com/images/I/61EREst6r1L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081NJ17SH",
@@ -117,7 +149,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/41KEOBWgBbL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01N0WVC16",
@@ -132,7 +169,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71BfsR4Ld9L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B08FG4KYKS",
@@ -147,7 +188,11 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/61Z3vop57tL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07VR8RQMH",
@@ -162,7 +207,11 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/61H7KEcFHhL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PQ7CXKG",
@@ -177,7 +226,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71XTesfK-bL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08DK7GHCQ",
@@ -192,7 +245,12 @@
     },
     "rating": 1,
     "imgUrl": "https://m.media-amazon.com/images/I/61JQ96dDpoL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07J36TZCW",
@@ -207,7 +265,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71p0MOTaZ3L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PLW2J7W",
@@ -222,7 +285,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/91HnNBREpPL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01BKEZYBY",
@@ -237,7 +305,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61iSZLm68cL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "watch"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07SKCHSX8",
@@ -252,7 +325,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/91XnkSIYvDL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8172345666",
@@ -267,7 +345,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/8170Bj+bSOL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B0821SQVBL",
@@ -282,7 +364,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81NNXwOMmOL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083ZCKYP9",
@@ -297,7 +384,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71iadCVpnkL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08286D6QQ",
@@ -312,7 +404,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81XKaSKvlyL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08C4NT4S8",
@@ -327,7 +424,11 @@
     },
     "rating": 2.9,
     "imgUrl": "https://m.media-amazon.com/images/I/41I+CrkF1uL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07HNGX6TD",
@@ -342,7 +443,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/81NNmc0hU+L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07SKGXFKY",
@@ -357,7 +463,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/81O-J6qiXvL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WNS1513",
@@ -372,7 +483,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/41Y+cKltYJL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0757DKVJN",
@@ -387,7 +502,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/61VkyEzasdL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B019CQ1PLU",
@@ -402,7 +522,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/41yl4fMkW+L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07JCKYCJ1",
@@ -417,7 +542,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/619cbIBhSAL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01420KKS0",
@@ -432,7 +562,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/61xhFbiDnlL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08HNB3J7S",
@@ -447,7 +582,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71bqp30VRAL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07ZVJCB5Y",
@@ -462,7 +602,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/41AYm05+7PL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08F3VV46J",
@@ -477,7 +621,12 @@
     },
     "rating": 4.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71w1cipJcUL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00JZM1N0U",
@@ -492,7 +641,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/81gANkfvamL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08G2PL5S3",
@@ -507,7 +661,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/610MDzvRNaL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01NBI0EKL",
@@ -522,7 +681,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/41x+Ug7zcBL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0758JYP9T",
@@ -537,7 +700,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/81MYlEFcDEL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0846KZQQK",
@@ -552,7 +720,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71L45+fR9gL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RG6H8C2",
@@ -567,7 +740,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/91puYYO-kVL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DJD1RTM",
@@ -582,7 +759,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/51ltipMHjiL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B074RFHJD8",
@@ -597,7 +778,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/A1IlX3BG+oL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08BTZM439",
@@ -612,7 +798,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/61b1twc91zL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07PLJXCKC",
@@ -627,7 +818,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/815riDQmuzL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08GHPX4W4",
@@ -642,7 +838,12 @@
     },
     "rating": 3.1,
     "imgUrl": "https://m.media-amazon.com/images/I/719amcr46tL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08H16SMB7",
@@ -657,7 +858,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/919a+qQirwL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0855HG9HB",
@@ -672,7 +878,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61dq5PqAARL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07S5BLTKJ",
@@ -687,7 +898,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/910udnNO+oL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0823FY2N7",
@@ -702,7 +918,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81XT4EQHPdL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08CC686KC",
@@ -717,7 +938,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/41FLSUjY66L._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082RYNR15",
@@ -732,7 +958,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71hFZZOPq+L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0839KZBZ2",
@@ -747,7 +978,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81bgbLJL84L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082QZ8KRP",
@@ -762,7 +998,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/715NYXDhD-L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01AM3DOJS",
@@ -777,7 +1018,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71X3hMAvbwL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0837MXZSM",
@@ -792,7 +1038,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71c6NyHyeLL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07JZBLMQW",
@@ -807,7 +1058,11 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61X5Gw9zI-L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FH4RQWV",
@@ -822,7 +1077,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81iQm+G++WL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RRHZPC5",
@@ -837,7 +1097,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/9114kTDpPUL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08HK7Z8CS",
@@ -852,7 +1117,12 @@
     },
     "rating": 5,
     "imgUrl": "https://m.media-amazon.com/images/I/710saCw33-L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07M5TJZDN",
@@ -867,7 +1137,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/51PAjY776nL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RCXWQR6",
@@ -882,7 +1157,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/91J92wiWVML._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07VPV4JTR",
@@ -897,7 +1177,12 @@
     },
     "rating": 2,
     "imgUrl": "https://m.media-amazon.com/images/I/513Hp0K0I6L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9387944891",
@@ -912,7 +1197,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71eijJe2ntL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07VLHGSP4",
@@ -927,7 +1216,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/51M9PlQsI5L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MVHX3JD",
@@ -942,7 +1236,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81HV6B-QzPL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B077P2GZKX",
@@ -957,7 +1256,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71oWZOy2wvL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MF9R3C9",
@@ -972,7 +1276,12 @@
     },
     "rating": 1,
     "imgUrl": "https://m.media-amazon.com/images/I/814xcQv6cWL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WWLQM8Q",
@@ -987,7 +1296,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/81f6ZhzM7+L._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X5K5B41",
@@ -1002,7 +1315,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81Wrn3PgRHL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07T5ZG2X5",
@@ -1017,7 +1335,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/815RKgy6TKL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DFPM2D8",
@@ -1032,7 +1355,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/611hFiiUv4L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B082QDFT99",
@@ -1047,7 +1375,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71tZqAL0OwL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01M69DXTB",
@@ -1062,7 +1395,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/51jUtsdS+BL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B071S45PQK",
@@ -1077,7 +1414,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71nMqGfTsxL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08CZW7N8T",
@@ -1092,7 +1434,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/91ZZGCp6tuL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07M7ZMQZT",
@@ -1107,7 +1454,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71hPsBKJbHL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07QYY8BMW",
@@ -1122,7 +1473,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/615nxEkkzaL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07H1KLR44",
@@ -1137,7 +1493,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/61Rfa3bOQZL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07H6XGDNV",
@@ -1152,7 +1513,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71gS9nADNeL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08CH8MWH3",
@@ -1167,7 +1533,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/41aFNxEC3cL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07S4LFBMH",
@@ -1182,7 +1552,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/714H6k9M2hL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01E2BZGAG",
@@ -1197,7 +1572,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71DkCWDSIAL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07TKYQY82",
@@ -1212,7 +1592,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81NEPtLf71L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07QRRQT1Z",
@@ -1227,7 +1611,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61fJ57YRe5L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07XPGSRN6",
@@ -1242,7 +1631,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81xNp0gOlVL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9351772071",
@@ -1257,7 +1651,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/710jnzKlDTL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08GFSS3KC",
@@ -1272,7 +1670,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/51LMmfEndlL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082Q4JNQ6",
@@ -1287,7 +1690,12 @@
     },
     "rating": 2.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61OXlj3b8oL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07XB1N9GJ",
@@ -1302,7 +1710,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71J6KNXM9oL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07TGMNTRN",
@@ -1317,7 +1730,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81cdyq5nEwL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01MRN1BY4",
@@ -1332,7 +1750,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00ICCYF0E",
@@ -1347,7 +1770,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/91ndK31tX9L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8175993952",
@@ -1362,7 +1789,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/61O9uqUfQDL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08CXQHZGD",
@@ -1377,7 +1808,11 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/61-1il4X4qL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": true
   },
   {
     "id": "9388754433",
@@ -1392,7 +1827,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81U3+6n3s1L._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07L12ZFNY",
@@ -1407,7 +1846,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/51D46-haC7L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8171673406",
@@ -1422,7 +1866,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71JZ0neAP1L._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books" 
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07VGLRCBM",
@@ -1437,7 +1885,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71IbGOvXhUL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07B9XLN31",
@@ -1452,7 +1905,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/81LFWwDLKPL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08F9LXNKB",
@@ -1467,7 +1925,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71LZF0v4o8L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07QDGKBWZ",
@@ -1482,7 +1945,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81rcMJm4kFL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07CVKZGXJ",
@@ -1497,7 +1965,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71EXADRnZDL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MNTC36T",
@@ -1512,7 +1985,12 @@
     },
     "rating": 2.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71QYHN9yIsL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DMZZQ2M",
@@ -1527,7 +2005,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/61Don-d8JfL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07DX37LB9",
@@ -1542,7 +2025,11 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/616bt-ZVtqL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FYD9B7B",
@@ -1557,7 +2044,12 @@
     },
     "rating": 4.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81soypPE4-L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082KTCQ1L",
@@ -1572,7 +2064,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81CNw-ZzCwL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X4G99V4",
@@ -1587,7 +2084,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81r0Njz1VAL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07YYNLCD2",
@@ -1602,7 +2104,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/41euA6Oiq4L._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07VQYKV5V",
@@ -1617,7 +2123,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/916PwQG4MmL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00G7UWV9K",
@@ -1632,7 +2143,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/5114oiRXETL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B00PVUAJDW",
@@ -1647,7 +2162,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71x5Z5TkoNL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0833W5QFD",
@@ -1662,7 +2181,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/61en9kN-fsL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B018SK0ZB2",
@@ -1677,7 +2201,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71r+9tIRbCL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Q5HQMX9",
@@ -1692,7 +2220,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81IUaey1ZTL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DDNPSZQ",
@@ -1707,7 +2240,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61EvPLNdVBL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B01N66F4CH",
@@ -1722,7 +2260,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8178799790",
@@ -1737,7 +2280,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71wxUtCu75L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FCPL5NX",
@@ -1752,7 +2299,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/817iC5Eq49L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07GLKT6VM",
@@ -1767,7 +2319,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61f3p3fGEaL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07HGGYWL6",
@@ -1782,7 +2339,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B073MFGJHP",
@@ -1797,7 +2358,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/61ZA0394h7L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07F3B7FBQ",
@@ -1812,7 +2378,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71ApKNioIoL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B084L91LL6",
@@ -1827,7 +2398,12 @@
     },
     "rating": 5,
     "imgUrl": "https://m.media-amazon.com/images/I/71g1NS4UtbL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B019XSHCG4",
@@ -1842,7 +2418,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/616xchp1ECL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07P4Z3BRG",
@@ -1857,7 +2438,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/51z9UN1Z68L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07GVK6KQ2",
@@ -1872,7 +2458,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/816sJjAo90L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07XKRTFGC",
@@ -1887,7 +2477,12 @@
     },
     "rating": 5,
     "imgUrl": "https://m.media-amazon.com/images/I/91zEzQdxmrL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PJVJCQD",
@@ -1902,7 +2497,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81Rift0ymZL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "817992162X",
@@ -1917,7 +2516,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61Iz2yy2CKL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B01I32PPOM",
@@ -1932,7 +2535,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/41tZ0BU6g8L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SDPTP6Q",
@@ -1947,7 +2555,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71wPwmxo2NL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B073FKXQ9H",
@@ -1962,7 +2574,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/715nKDSr27L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07G49XBT3",
@@ -1977,7 +2594,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81PS95iXA4L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07N4LGW54",
@@ -1992,7 +2614,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/61G+3USEe-L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07P4MSJZ8",
@@ -2007,7 +2634,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61rAojMfOyL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08BG8L72Q",
@@ -2022,7 +2653,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/4110ru1t4KL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0818QS36Q",
@@ -2037,7 +2672,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/61txfL9qwLL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07W6QQHMC",
@@ -2052,7 +2692,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61yU1nAL48L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8194698464",
@@ -2067,7 +2712,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71Xkv-KOK6L._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WS74Y9X",
@@ -2082,7 +2731,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61aWLxrr-LL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082FCV9ZL",
@@ -2097,7 +2751,11 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61+ITuvLG+L._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07NNKYLBW",
@@ -2112,7 +2770,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71A+Y+v6QZL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083D9P3KS",
@@ -2127,7 +2790,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81FQCvX3sPL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00N23YNA0",
@@ -2142,7 +2810,11 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71i72R+7s0L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07LBRWCWT",
@@ -2157,7 +2829,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/910KJPiGcYL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SPKH1X3",
@@ -2172,7 +2849,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/717d6fQiQyL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B089LZLBJK",
@@ -2187,7 +2869,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71LZF0v4o8L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07NL97NP8",
@@ -2202,7 +2889,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61bOnqOsNML._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B06Y5LV7CR",
@@ -2217,7 +2909,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61+e1RZI11L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01NBYE2GL",
@@ -2232,7 +2929,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71Jpv7r5kAL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01AM3E6JU",
@@ -2247,7 +2949,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/51h-vw7DCRL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081N8NGHT",
@@ -2262,7 +2969,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81MNQbToYrL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FZMZQ2S",
@@ -2277,7 +2989,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81B5FRMn80L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B088T1VM7J",
@@ -2292,7 +3009,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/51RT5QOXhUL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FTFM3JM",
@@ -2307,7 +3029,12 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/91RLBThNNhL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07V9XW6Y7",
@@ -2322,7 +3049,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61FbtrClKrL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B06XC85W1N",
@@ -2337,7 +3069,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/41LEAVDrZkL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07JP1JGSF",
@@ -2352,7 +3089,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81Q9ig3qklL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07M8J96Z1",
@@ -2367,7 +3109,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81vfjqJiIWL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07ZC5NSTG",
@@ -2382,7 +3129,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71Uj0cqmP1L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B019XSHB7O",
@@ -2397,7 +3149,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/616xchp1ECL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0733GM3CK",
@@ -2412,7 +3169,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71HG4moOe4L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083JGH84Y",
@@ -2427,7 +3188,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71qsZwPnzOL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0845VGZ6H",
@@ -2442,7 +3208,12 @@
     },
     "rating": 2.7,
     "imgUrl": "https://m.media-amazon.com/images/I/51h7AQi26vL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PWSRK43",
@@ -2457,7 +3228,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/6101k-h-olL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081Y57NR6",
@@ -2472,7 +3248,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/41u472PIZqL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0848H8G67",
@@ -2487,7 +3268,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/61kkoRxvMUL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B089MS3GL9",
@@ -2502,7 +3288,11 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71SVzNmepQL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B08FBH11JQ",
@@ -2517,7 +3307,12 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71r0gfSHYtL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X7Z247R",
@@ -2532,7 +3327,12 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71T0uHHo06L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B084454YKR",
@@ -2547,7 +3347,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71KCwNV6MuL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07X3C1D2M",
@@ -2562,7 +3366,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71k8PMXeqiL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SCTQBQJ",
@@ -2577,7 +3386,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61kadQGTYXL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8179925919",
@@ -2592,7 +3406,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/51oHUvYzbsL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B085XXFPS8",
@@ -2607,7 +3425,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/81dPJnoDrUL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RVHYQTQ",
@@ -2622,7 +3445,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81yAzVlhCiL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8179922324",
@@ -2637,7 +3465,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/41wKll7ITyL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MV7BQGD",
@@ -2652,7 +3484,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/618r4PBS73L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B086KDZGTZ",
@@ -2667,7 +3504,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/514ETCdN3CL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "1542040469",
@@ -2682,7 +3523,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/51G3MfByofL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FYBCX49",
@@ -2697,7 +3542,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/81tfAnyjorL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FBGK6DY",
@@ -2712,7 +3562,12 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71zZ2+9sHRL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01M3PM7G7",
@@ -2727,7 +3582,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61+ymeZjHJL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FYVTVJR",
@@ -2742,7 +3602,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/71WB5f9YH9L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081JX6YZB",
@@ -2757,7 +3622,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81whhNx7zjL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SZL2LHB",
@@ -2772,7 +3642,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81WK8l8+hyL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07B8NLQFV",
@@ -2787,7 +3661,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61xOjMsr6HL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07HZFHQ2D",
@@ -2802,7 +3681,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/91qT9DFAVwL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SMKXRSK",
@@ -2817,7 +3701,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71MB3yNQc5L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WX2R5R8",
@@ -2832,7 +3721,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/413gWhDPK3L._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07QJV4FWL",
@@ -2847,7 +3740,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81dkSgs7nsL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B079Q94JQY",
@@ -2862,7 +3760,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/61qyg3bRylL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9389053803",
@@ -2877,7 +3780,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71TVx7elWZL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PP2K69Z",
@@ -2892,7 +3799,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71ZU4VsevqL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Z69NB1T",
@@ -2907,7 +3818,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81JNjDMjgOL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07GSVNDX2",
@@ -2922,7 +3838,11 @@
     },
     "rating": 3,
     "imgUrl": "https://m.media-amazon.com/images/I/71xyil6O2CL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08HMTLSNR",
@@ -2937,7 +3857,11 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/61xwe+BR5IL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08776ZZY4",
@@ -2952,7 +3876,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/711RcAn0EiL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Q14YQL9",
@@ -2967,7 +3895,11 @@
     },
     "rating": 2.9,
     "imgUrl": "https://m.media-amazon.com/images/I/617RD3RHQyL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B088LZL98D",
@@ -2982,7 +3914,12 @@
     },
     "rating": 1,
     "imgUrl": "https://m.media-amazon.com/images/I/61z7TKqwD2L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MGLJWSK",
@@ -2997,7 +3934,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/41gKDAFadNL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07RXYRMLF",
@@ -3012,7 +3954,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/61YzrNo4yTL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07F1NVDZ2",
@@ -3027,7 +3974,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/31kIZEW-65L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07KX1S161",
@@ -3042,7 +3993,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/51ZoulFBPGL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B089SLP2X4",
@@ -3057,7 +4012,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/513H2sk-QGL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": true
   },
   {
     "id": "0062641549",
@@ -3072,7 +4031,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71t4GuxLCuL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07JKFCF9G",
@@ -3087,7 +4050,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/714tHGl1Y8L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RNX3XXN",
@@ -3102,7 +4069,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61ctY7YIUhL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X1KSWZ3",
@@ -3117,7 +4089,11 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/710p2f-zAdL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SWR4QVJ",
@@ -3132,7 +4108,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/91K7kfay53L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B06Y6MHSVR",
@@ -3147,7 +4128,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/61TwfPRLhrL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B084C4TBP6",
@@ -3162,7 +4148,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71Uvae5MKfL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RRHZH7K",
@@ -3177,7 +4168,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/91YFGHzjm4L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081NMF44H",
@@ -3192,7 +4188,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/41ikarFEHTL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B085GPGZR2",
@@ -3207,7 +4208,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81SsCsN7ELL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WXW8V4X",
@@ -3222,7 +4228,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/31epIjp9ToL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082MPDWRD",
@@ -3237,7 +4247,11 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/713PDz9XgqL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FCLK5R7",
@@ -3252,7 +4266,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/91Nfpvp1yhL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FLX7D6N",
@@ -3267,7 +4286,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81iWRfQr65L._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081JTC4PN",
@@ -3282,7 +4305,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81wXNHiQEIL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00B531XBQ",
@@ -3297,7 +4325,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81D601eVSFL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0079JZ4O2",
@@ -3312,7 +4344,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81lO53zfDDL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B085B9XN9Z",
@@ -3327,7 +4363,12 @@
     },
     "rating": 4.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71SItdZDa3L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Z646CQP",
@@ -3342,7 +4383,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/91ZGfE+tfLL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FS9WCP6",
@@ -3357,7 +4403,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71qgKIVLYaL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01NAOVLVP",
@@ -3372,7 +4423,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61Yqky3Q6oL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SDPJ4XJ",
@@ -3387,7 +4443,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71wPwmxo2NL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01I7799SQ",
@@ -3402,7 +4462,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81ghaTj8JKL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07NY2WXPH",
@@ -3417,7 +4482,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71z77imSIZL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083R6LH2M",
@@ -3432,7 +4501,11 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81hMgv4gTGL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0832VQPJ6",
@@ -3447,7 +4520,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/810Kq7xQvtL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FT6M39W",
@@ -3462,7 +4540,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/41nKGBwiTZL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07ML4NSG8",
@@ -3477,7 +4560,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81Nsk5MvhCL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WVD6188",
@@ -3492,7 +4580,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61QPHo9DQNL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X1KT6LD",
@@ -3507,7 +4600,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61Z-7BVaFUL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07RFMMJ1G",
@@ -3522,7 +4619,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81uYpoT9mhL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B086KCCPB7",
@@ -3537,7 +4639,11 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71RadpHBLhL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B084TQR3CX",
@@ -3552,7 +4658,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71-BCt0A7CL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "8172234988",
@@ -3567,7 +4678,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07NCXHQG1",
@@ -3582,7 +4697,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81wCZsIYeNL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083R7LLS3",
@@ -3597,7 +4717,11 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/81Qyc1dPyoL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9387779262",
@@ -3612,7 +4736,11 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71Pq5G9+XgL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9332542600",
@@ -3627,7 +4755,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81ei3AqQUXL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B081F6TXR6",
@@ -3642,7 +4774,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61AK6-MN4iL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08FYVRNJM",
@@ -3657,7 +4793,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71V6ZFCvhtL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07YYNX5X6",
@@ -3672,7 +4813,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/31Z2ee9oYQL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B002VPE1QG",
@@ -3687,7 +4832,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/91or+mTVQHL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07HGJJ559",
@@ -3702,7 +4851,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71dujTTJDZL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07T8BGTFQ",
@@ -3717,7 +4870,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81-uuEDvnQL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Z5CH5WY",
@@ -3732,7 +4890,12 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/51UYZtmhpHL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07MC9QB35",
@@ -3747,7 +4910,12 @@
     },
     "rating": 3,
     "imgUrl": "https://m.media-amazon.com/images/I/71A4FOEgLnL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07JCCNYH9",
@@ -3762,7 +4930,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/51vcXP8yukL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07QMCSBPN",
@@ -3777,7 +4950,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/81uBR2xCzzL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07SBK1WQQ",
@@ -3792,7 +4969,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/514zYTXaCqL._AC_UL320_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B06ZY165X5",
@@ -3807,7 +4988,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/81v0NcbTYAL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01GNX31US",
@@ -3822,7 +5008,11 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/51qj9e5G00L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B079RG57K4",
@@ -3837,7 +5027,11 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71HxPenV4sL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0814RW38D",
@@ -3852,7 +5046,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/91FN4LCv1TL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B0847P4P2T",
@@ -3867,7 +5066,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/91d6aYJqW9L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082QPVHG7",
@@ -3882,7 +5086,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71pjTNPIotL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "0008386595",
@@ -3897,7 +5106,11 @@
     },
     "rating": 4.8,
     "imgUrl": "https://m.media-amazon.com/images/I/81s6DUyQCZL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07C1P7VR7",
@@ -3912,7 +5125,11 @@
     },
     "rating": 4.4,
     "imgUrl": "https://m.media-amazon.com/images/I/91Gmry8hjiL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07RPGDB39",
@@ -3927,7 +5144,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/91yPghSgR8L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0100RDGUI",
@@ -3942,7 +5164,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/81vBKXmkSzL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DMZ7JXK",
@@ -3957,7 +5184,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/613aUOVUTyL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07HFLJS6Z",
@@ -3972,7 +5204,12 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81toWbUab6L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07YDKT3B2",
@@ -3987,7 +5224,11 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/41SxXw+cd2L._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B01LWKD8PT",
@@ -4002,7 +5243,12 @@
     },
     "rating": 2.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71mMFcFFNiL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07WNDR2TT",
@@ -4017,7 +5263,12 @@
     },
     "rating": 2.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81zCNxcGjSL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07D4GR1GQ",
@@ -4032,7 +5283,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/71VBuAI0CxL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B08DRW8VRD",
@@ -4047,7 +5303,12 @@
     },
     "rating": 3,
     "imgUrl": "https://m.media-amazon.com/images/I/81axRWt9D2L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07XPVX4DZ",
@@ -4062,7 +5323,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/812sip8so9L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07JDTG95Z",
@@ -4077,7 +5342,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71jaHB1W8XL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B074T8YGLV",
@@ -4092,7 +5362,12 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/81Asz3AwhYL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B083Y5R5KB",
@@ -4107,7 +5382,12 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71y-fzR6gAL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "1409176266",
@@ -4122,7 +5402,11 @@
     },
     "rating": 4.6,
     "imgUrl": "https://m.media-amazon.com/images/I/41UtldMTPXL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07DFMMWWB",
@@ -4137,7 +5421,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/91NcSgkMoGL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B00W04QGDE",
@@ -4152,7 +5441,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/719wwSkOlBL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07QDFQGLG",
@@ -4167,7 +5461,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/71fxQ+gXaZL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07Q1426XL",
@@ -4182,7 +5481,12 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/71OFiG56SkL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B073X5846C",
@@ -4197,7 +5501,12 @@
     },
     "rating": 3.9,
     "imgUrl": "https://m.media-amazon.com/images/I/81Sng0yuUJL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07P257PC9",
@@ -4212,7 +5521,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/61+k8rlnSUL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01KI3VPIY",
@@ -4227,7 +5541,12 @@
     },
     "rating": 4.5,
     "imgUrl": "https://m.media-amazon.com/images/I/61D+dqCr2BL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B082QDQRMM",
@@ -4242,7 +5561,12 @@
     },
     "rating": 5,
     "imgUrl": "https://m.media-amazon.com/images/I/81YgIobz8NL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07H71G1D7",
@@ -4257,7 +5581,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/6145npqbg4L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07FDXCWRH",
@@ -4272,7 +5601,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/71b5JqOaJcL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07P74DYQM",
@@ -4287,7 +5621,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71iUzp1lpjL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0886HWCBF",
@@ -4302,7 +5640,12 @@
     },
     "rating": 3.1,
     "imgUrl": "https://m.media-amazon.com/images/I/51pt7rpfMCL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B078F1F4BV",
@@ -4317,7 +5660,11 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/61bTR1wJ9dL._AC_UL320_.jpg",
-    "category": ["all", "sports"]
+    "category": [
+      "all",
+      "sports"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07N81YB48",
@@ -4332,7 +5679,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71IzAoJUVFL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B073PYKM1X",
@@ -4347,7 +5699,12 @@
     },
     "rating": 3.5,
     "imgUrl": "https://m.media-amazon.com/images/I/71mj1iTHLYL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0832VTK42",
@@ -4362,7 +5719,12 @@
     },
     "rating": 3.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81Pks4Q52wL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0073QKW2K",
@@ -4377,7 +5739,11 @@
     },
     "rating": 4.2,
     "imgUrl": "https://m.media-amazon.com/images/I/81ZILE1Sq5L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07L5T3FPC",
@@ -4392,7 +5758,12 @@
     },
     "rating": 3.1,
     "imgUrl": "https://m.media-amazon.com/images/I/81e6ExtDoTL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07Y7C4X2P",
@@ -4407,7 +5778,12 @@
     },
     "rating": 3,
     "imgUrl": "https://m.media-amazon.com/images/I/71VjLhAUnVL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B019FGRD90",
@@ -4422,7 +5798,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/714EXTMcpuL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07PLHTTB4",
@@ -4437,7 +5818,11 @@
     },
     "rating": 3.1,
     "imgUrl": "https://m.media-amazon.com/images/I/61Pg1H7U15L._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07NCXVGCM",
@@ -4452,7 +5837,12 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/81JE98ug38L._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01AM3EF6Y",
@@ -4467,7 +5857,12 @@
     },
     "rating": 3.4,
     "imgUrl": "https://m.media-amazon.com/images/I/71aVqEzwpoL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B01AM3EBJK",
@@ -4482,7 +5877,12 @@
     },
     "rating": 3.8,
     "imgUrl": "https://m.media-amazon.com/images/I/71azASYPK4L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B0796WZFLB",
@@ -4497,7 +5897,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/61UPUDphtXL._AC_UL320_.jpg",
-    "category": ["all", "sports", "shoes"]
+    "category": [
+      "all",
+      "sports",
+      "shoes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07KXCKPZZ",
@@ -4512,7 +5917,11 @@
     },
     "rating": 4.1,
     "imgUrl": "https://m.media-amazon.com/images/I/51FnmxwFHDL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B077NH3W7Z",
@@ -4527,7 +5936,12 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61+wT3sYB7L._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B01N250B5H",
@@ -4542,7 +5956,11 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/31lISxzTYXL._AC_UY218_.jpg",
-    "category": ["all", "electronics"]
+    "category": [
+      "all",
+      "electronics"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07H7L38QX",
@@ -4557,7 +5975,12 @@
     },
     "rating": 3.6,
     "imgUrl": "https://m.media-amazon.com/images/I/916LBU7eMSL._AC_UL320_.jpg",
-    "category": ["all", "women", "clothes"]
+    "category": [
+      "all",
+      "women",
+      "clothes"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B086K9CW1W",
@@ -4572,7 +5995,11 @@
     },
     "rating": 3.7,
     "imgUrl": "https://m.media-amazon.com/images/I/71EOR9S6maL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "B07X1KSLC3",
@@ -4587,7 +6014,11 @@
     },
     "rating": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/71h+C9wJCjL._AC_UY218_.jpg",
-    "category": ["all", "phone"]
+    "category": [
+      "all",
+      "phone"
+    ],
+    "isSponsored": false
   },
   {
     "id": "9389178789",
@@ -4602,7 +6033,11 @@
     },
     "rating": 4.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61vf0McFrDL._AC_UY218_.jpg",
-    "category": ["all", "books"]
+    "category": [
+      "all",
+      "books"
+    ],
+    "isSponsored": true
   },
   {
     "id": "B07DFMML94",
@@ -4617,6 +6052,11 @@
     },
     "rating": 3.3,
     "imgUrl": "https://m.media-amazon.com/images/I/61dL-tqEQaL._AC_UL320_.jpg",
-    "category": ["all", "men", "clothes"]
+    "category": [
+      "all",
+      "men",
+      "clothes"
+    ],
+    "isSponsored": false
   }
 ]
