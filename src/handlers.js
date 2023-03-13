@@ -26,7 +26,7 @@ const getProducts = function (req, res) {
 
 const getSponsoredProducts = function (req, res) {
   const { category } = req.params;
-  res.json(sponsoredProductDetails[category].products);
+  res.json(sponsoredProductDetails[category]?.products ?? []);
 };
 
 const getSearchedProducts = function (req, res) {

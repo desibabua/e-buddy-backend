@@ -42,12 +42,12 @@ app.get('/api/products/:category', getProducts);
 app.get('/api/sponsoredProducts/:category', getSponsoredProducts);
 app.get('/api/review/:id', getProductReviews);
 
-// app.get('*', (req, res) => {
-//   res.sendFile(path.join(__dirname + '/../public/index.html'));
-// });
 
 app.post('/api/addReview', addReview);
 app.use(express.static('public'));
 
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname + '/../public/index.html'));
+});
 
 module.exports = { app };

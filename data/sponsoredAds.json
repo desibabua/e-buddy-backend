@@ -1,20 +1,20 @@
 {
-    "titleImage": "titleImage.png",
+    "titleImage": "adImages/titleImage.png",
     "url": "/products/all",
     "ads": [
         {
             "title": "Bluetooth Calling Smartwatch starts at ₹999",
-            "image": "sideImage1.png",
+            "image": "adImages/sideImage1.png",
             "url": "/search?input=watch"
         },
         {
             "title": "Up to 70% off | Clearance store",
-            "image": "sideImage2.png",
+            "image": "adImages/sideImage2.png",
             "url": "/products/electronics"
         },
         {
             "title": "Up to 60% off | Styles for men",
-            "image": "sideImage3.png",
+            "image": "adImages/sideImage3.png",
             "url": "/products/shoes"
         }
     ]
