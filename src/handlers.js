@@ -37,10 +37,6 @@ const getProducts = function (req, res) {
 
   const sponsoredDetails = sponsoredProductDetails[category]?.products ?? [];
 
-  // const allProducts = sponsoredDetails.length > 0
-  //   ? mergeSponsoredProduct(products, sponsoredProducts, sponsoredDetails)
-  //   : _.filter(productDetails, { category: [category] });
-
   res.json(mergeSponsoredProduct(products, sponsoredProducts, sponsoredDetails));
 };
 
@@ -54,9 +50,11 @@ const getSponsoredBrands = function (req, res) {
 
 const getSearchedProducts = function (req, res) {
   const { input } = req.query;
-  const products = _.filter(productDetails, (product) =>
-    _.includes(_.lowerCase(product.title), _.lowerCase(input))
-  );
+  const products = _.filter(productDetails, (product) => {
+    const searchInput = _.lowerCase(input);
+    return _.includes(_.lowerCase(product.title), searchInput) || _.includes(product.category, searchInput)
+  });
+
   const sponsoredProductsInSearchResult = _.filter(products, { isSponsored: true });
   const nonSponsoredProductsInSearchResult = _.filter(products, { isSponsored: false });
   const sponsoredDetails = sponsoredProductDetails[input]?.products ?? [];

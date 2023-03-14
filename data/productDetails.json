@@ -1868,7 +1868,7 @@
     "imgUrl": "https://m.media-amazon.com/images/I/71JZ0neAP1L._AC_UY218_.jpg",
     "category": [
       "all",
-      "books" 
+      "books"
     ],
     "isSponsored": false
   },
@@ -6057,6 +6057,375 @@
       "men",
       "clothes"
     ],
+    "isSponsored": false
+  },
+  {
+    "id": "id-1",
+    "title": "Nike Air Max 270 React",
+    "brand": "Nike",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Black/White/Anthracite",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/nike-air-max-270-react-black-white-anthracite.jpg",
+    "description": "The Nike Air Max 270 React combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and style.",
+    "rating": 4.5,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "These are the most comfortable shoes I've ever worn!",
+        "date": "2022-12-01"
+      },
+      {
+        "name": "Jane Smith",
+        "rating": 4,
+        "comment": "Great shoes, but they run a bit narrow for me.",
+        "date": "2022-11-15"
+      }
+    ]
+  },
+  {
+    "id": "id-2",
+    "title": "Adidas Ultraboost 21",
+    "brand": "Adidas",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Cloud White/Silver Metallic/Core Black",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/adidas-ultraboost-21-cloud-white-silver-black.jpg",
+    "description": "The Ultraboost 21 shoes offer an unrivaled mix of comfort, support and style.",
+    "rating": 4.8,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Alice Brown",
+        "rating": 5,
+        "comment": "Love these shoes! They are so comfortable and stylish.",
+        "date": "2023-02-25"
+      },
+      {
+        "name": "Bob Smith",
+        "rating": 4,
+        "comment": "Great shoes, but a bit pricey for me.",
+        "date": "2023-02-18"
+      }
+    ]
+  },
+  {
+    "id": "id-3",
+    "title": "Vans Old Skool",
+    "brand": "Vans",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Black/White",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/vans-old-skool-black-white.jpg",
+    "description": "The Old Skool, Vans classic skate shoe and the first to bear the iconic side stripe, has a low-top lace-up silhouette with a durable suede and canvas upper with padded tongue and lining and Vans signature Waffle Outsole.",
+    "rating": 4.2,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Sarah Lee",
+        "rating": 4,
+        "comment": "These shoes look great and are really comfortable, but they run a bit large for me.",
+        "date": "2022-12-05"
+      },
+      {
+        "name": "Tom Johnson",
+        "rating": 5,
+        "comment": "Love these shoes! They're classic and comfortable.",
+        "date": "2022-11-30"
+      }
+    ]
+  },
+  {
+    "id": "id-4",
+    "title": "Reebok Nano X",
+    "brand": "Reebok",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Black/White",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/reebok-nano-x-black-white.jpg",
+    "description": "The Reebok Nano X shoes offer a comfortable and stable base for all types of training.",
+    "rating": 4.7,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Amy Chen",
+        "rating": 5,
+        "comment": "These shoes are perfect for my workouts! They're comfortable and give me good support.",
+        "date": "2023-02-23"
+      },
+      {
+        "name": "David Kim",
+        "rating": 4,
+        "comment": "Great shoes, but they take a bit of time to break in.",
+        "date": "2023-02-17"
+      }
+    ]
+  },
+  {
+    "id": "id-5",
+    "title": "Adidas Stan Smith",
+    "brand": "Adidas",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "White/Green",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/adidas-stan-smith-white-green.jpg",
+    "description": "The Stan Smith shoes are an iconic sneaker with clean, simple design lines and a low profile.",
+    "rating": 4.6,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Jennifer Nguyen",
+        "rating": 5,
+        "comment": "Theseshoes are perfect for casual wear! They look great and are comfortable.",
+        "date": "2023-03-01"
+      },
+      {
+        "name": "Mike Smith",
+        "rating": 4,
+        "comment": "Great shoes, but they run a bit large for me.",
+        "date": "2023-02-25"
+      }
+    ]
+  },
+  {
+    "id": "id-6",
+    "title": "Nike Air Force 1",
+    "brand": "Nike",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Black/White",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/nike-air-force-1-black-white.jpg",
+    "description": "The Nike Air Force 1 '07 LV8 shoes are a modern take on the iconic Air Force 1 design.",
+    "rating": 4.8,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Ryan Lee",
+        "rating": 5,
+        "comment": "These shoes are amazing! They're comfortable and look great.",
+        "date": "2023-03-11"
+      },
+      {
+        "name": "Jessica Kim",
+        "rating": 4,
+        "comment": "Great shoes, but they take a bit of time to break in.",
+        "date": "2023-03-04"
+      }
+    ]
+  },
+  {
+    "id": "id-7",
+    "title": "Puma Cali Sport",
+    "brand": "Puma",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "White/Gray",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/puma-cali-sport-white-gray.jpg",
+    "description": "The Puma Cali Sport shoes offer a modern take on the classic Cali silhouette.",
+    "rating": 4.5,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Emily Park",
+        "rating": 5,
+        "comment": "Love these shoes! They're comfortable and look great.",
+        "date": "2023-02-28"
+      },
+      {
+        "name": "Jason Lee",
+        "rating": 4,
+        "comment": "Great shoes, but they run a bit small for me.",
+        "date": "2023-02-21"
+      }
+    ]
+  },
+  {
+    "id": "id-8",
+    "title": "Converse Chuck Taylor All Star",
+    "brand": "Converse",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Black",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/converse-chuck-taylor-all-star-black.jpg",
+    "description": "The Chuck Taylor All Star shoes are a classic sneaker that offer timeless style and comfort.",
+    "rating": 4.4,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Kim Lee",
+        "rating": 5,
+        "comment": "Love these shoes! They're classic and comfortable.",
+        "date": "2023-03-13"
+      },
+      {
+        "name": "David Kim",
+        "rating": 4,
+        "comment": "Great shoes, but they take a bit of time to break in.",
+        "date": "2023-03-08"
+      }
+    ]
+  },
+  {
+    "id": "id-9",
+    "title": "Adidas Ultraboost",
+    "brand": "Adidas",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "White",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image": "https://example.com/adidas-ultraboost-white.jpg",
+    "description": "The Adidas Ultraboost shoes offer superior comfort and support for running and everyday wear.",
+    "rating": 4.9,
+    "isSponsored": false,
+    "reviews": [
+      {
+        "name": "Jennifer Park",
+        "rating": 5,
+        "comment": "These shoes are amazing! They're so comfortable and look great.",
+        "date": "2023-03-09"
+      },
+      {
+        "name": "Mark Lee",
+        "rating": 4,
+        "comment": "Great shoes, but they run a bit narrow for me.",
+        "date": "2023-03-03"
+      }
+    ]
+  },
+  {
+    "id": "id-10",
+    "title": "Nike Air Max 270",
+    "brand": "Nike",
+    "category": [
+      "all",
+      "Sneakers",
+      "shoes"
+    ],
+    "color": "Black/White",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 61.19
+    },
+    "image_url": "https://example.com/nike-air-max-270.jpg",
+    "description": "The Nike Air Max 270 is a classic sneaker featuring a large air cushion in the heel for maximum comfort and style. The black and white colorway goes with any outfit.",
+    "rating": 3.3,
+    "isSponsored": false
+  },
+  {
+    "id": "id-11",
+    "title": "Adidas Ultraboost",
+    "brand": "Adidas",
+    "category": [
+      "all",
+      "shoes"
+    ],
+    "color": "Grey",
+    "price": {
+      "discounted": true,
+      "currentPrice": 543,
+      "currency": "INR",
+      "beforePrice": 1399,
+      "savings": 856,
+      "savingsPercent": 50.14
+    },
+    "image_url": "https://example.com/adidas-ultraboost.jpg",
+    "description": "The Adidas Ultraboost is a popular running shoe featuring a comfortable knit upper and responsive Boost cushioning. The grey colorway is perfect for everyday wear.",
+    "rating": 4.2,
     "isSponsored": false
   }
 ]
