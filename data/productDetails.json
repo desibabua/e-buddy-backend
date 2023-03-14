@@ -173,7 +173,7 @@
       "all",
       "sports"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B08FG4KYKS",
@@ -349,7 +349,7 @@
       "all",
       "books"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B0821SQVBL",
@@ -448,7 +448,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07SKGXFKY",
@@ -705,7 +705,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B0846KZQQK",
@@ -803,7 +803,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07PLJXCKC",
@@ -1043,7 +1043,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07JZBLMQW",
@@ -1201,7 +1201,7 @@
       "all",
       "books"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07VLHGSP4",
@@ -1360,7 +1360,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B082QDFT99",
@@ -1812,7 +1812,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "9388754433",
@@ -1870,7 +1870,7 @@
       "all",
       "books" 
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07VGLRCBM",
@@ -1930,7 +1930,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B07QDGKBWZ",
@@ -2010,7 +2010,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07DX37LB9",
@@ -2147,7 +2147,7 @@
       "all",
       "electronics"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B00PVUAJDW",
@@ -2245,7 +2245,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B01N66F4CH",
@@ -2343,7 +2343,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B073MFGJHP",
@@ -2520,7 +2520,7 @@
       "all",
       "books"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B01I32PPOM",
@@ -2559,7 +2559,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B073FKXQ9H",
@@ -2619,7 +2619,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07P4MSJZ8",
@@ -3034,7 +3034,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07V9XW6Y7",
@@ -3292,7 +3292,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B08FBH11JQ",
@@ -3332,7 +3332,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B084454YKR",
@@ -3351,7 +3351,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07X3C1D2M",
@@ -3745,7 +3745,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B079Q94JQY",
@@ -3899,7 +3899,7 @@
       "all",
       "sports"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B088LZL98D",
@@ -3939,7 +3939,7 @@
       "sports",
       "shoes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07RXYRMLF",
@@ -4016,7 +4016,7 @@
       "all",
       "electronics"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "0062641549",
@@ -4113,7 +4113,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B06Y6MHSVR",
@@ -4193,7 +4193,7 @@
       "sports",
       "shoes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B085GPGZR2",
@@ -4467,7 +4467,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07NY2WXPH",
@@ -4817,7 +4817,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B002VPE1QG",
@@ -4935,7 +4935,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07QMCSBPN",
@@ -5051,7 +5051,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B0847P4P2T",
@@ -5129,7 +5129,7 @@
       "all",
       "sports"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07RPGDB39",
@@ -5189,7 +5189,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B07HFLJS6Z",
@@ -5228,7 +5228,7 @@
       "all",
       "phone"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B01LWKD8PT",
@@ -5446,7 +5446,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": false
+    "isSponsored": true
   },
   {
     "id": "B07QDFQGLG",
@@ -5466,7 +5466,7 @@
       "women",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07Q1426XL",
@@ -5645,7 +5645,7 @@
       "sports",
       "shoes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B078F1F4BV",
@@ -5743,7 +5743,7 @@
       "all",
       "electronics"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07L5T3FPC",
@@ -5941,7 +5941,7 @@
       "men",
       "clothes"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B01N250B5H",
@@ -6037,7 +6037,7 @@
       "all",
       "books"
     ],
-    "isSponsored": true
+    "isSponsored": false
   },
   {
     "id": "B07DFMML94",

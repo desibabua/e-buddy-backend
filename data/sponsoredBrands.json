@@ -1,0 +1,48 @@
+{
+    "all": {
+        "brandName": "",
+        "products": []
+    },
+    "clothes": {
+        "brandName": "",
+        "products": [
+            "B07H7L38QX",
+            "B01AM3EBJK"
+        ]
+    },
+    "men": {
+        "brandName": "",
+        "products": []
+    },
+    "women": {
+        "brandName": "",
+        "products": []
+    },
+    "electronics": {
+        "brandName": "",
+        "products": []
+    },
+    "phone": {
+        "brandName": "",
+        "products": [
+            "B07HGGYWL6",
+            "B0079JZ4O2",
+            "B07HGJJ559"
+        ]
+    },
+    "sports": {
+        "brandName": "",
+        "products": []
+    },
+    "books": {
+        "brandName": "",
+        "products": []
+    },
+    "watch": {
+        "brandName": "",
+        "products": [
+            "B07HGJJ559",
+            "B083R6LH2M"
+        ]
+    }
+}

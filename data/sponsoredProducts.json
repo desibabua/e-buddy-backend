@@ -1,0 +1,69 @@
+{
+    "all": {
+        "products": []
+    },
+    "clothes": {
+        "products": [
+            {
+                "id": "B083BZ97FF",
+                "position": 1
+            },
+            {
+                "id": "B0758JYP9T",
+                "position": 2
+            },
+            {
+                "id": "B08F9LXNKB",
+                "position": 11
+            },
+            {
+                "id": "B07F3B7FBQ",
+                "position": 12
+            }
+        ]
+    },
+    "men": {
+        "products": [
+            {
+                "id": "B00W04QGDE",
+                "position": 1
+            },
+            {
+                "id": "B07DMZ7JXK",
+                "position": 11
+            }
+        ]
+    },
+    "women": {
+        "products": []
+    },
+    "electronics": {
+        "products": []
+    },
+    "phone": {
+        "products": [
+            {
+                "id": "B07HGGYWL6",
+                "position": 1
+            },
+            {
+                "id": "B07SDPTP6Q",
+                "position": 2
+            }
+        ]
+    },
+    "sports": {
+        "products": []
+    },
+    "books": {
+        "products": []
+    },
+    "watch": {
+        "products": [
+            {
+                "id": "B01BKEZYBY",
+                "position": 1
+            }
+        ]
+    }
+}
