@@ -14,6 +14,7 @@ const {
   getProducts,
   getProduct,
   getSponsoredBrands,
+  getSponsoredBanners,
   getSearchedProducts,
   getProductReviews,
   addReview,
@@ -40,6 +41,7 @@ app.get('/api/search', getSearchedProducts);
 app.get('/api/product/:id', getProduct);
 app.get('/api/products/:category', getProducts);
 app.get('/api/sponsoredBrand/:category', getSponsoredBrands);
+app.get('/api/sponsoredBanners/:category', getSponsoredBanners);
 app.get('/api/review/:id', getProductReviews);
 
 

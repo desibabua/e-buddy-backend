@@ -2,6 +2,7 @@ const { writeFile } = require('fs');
 const _ = require('lodash');
 const productDetails = require('../data/productDetails.json');
 const sponsoredBrands = require('../data/sponsoredBrands.json');
+const sponsoredBanners = require('../data/sponsoredBanners.json');
 const sponsoredProductDetails = require('../data/sponsoredProducts.json');
 
 let productReviews = require('../data/productReviews.json');
@@ -19,47 +20,52 @@ const getProduct = function (req, res) {
   res.json(product);
 };
 
-const mergeSponsoredProduct = function (nonSponsoredProducts, sponsoredProducts, sponsoredDetails) {
-  const products = [...nonSponsoredProducts];
+const mergeSponsoredProduct = function (products, sponsoredDetails) {
 
   sponsoredDetails.forEach(sponsoredProductPos => {
-    const sponsoredProduct = _.find(sponsoredProducts, { id: sponsoredProductPos.id })
-    products.splice((sponsoredProductPos.position - 1), 0, sponsoredProduct)
+    const sponsoredProductCurrentPos = _.indexOf(products, { id: sponsoredProductPos.id })
+    const sponsoredProduct = products.splice(sponsoredProductCurrentPos, 1)[0];
+    products.splice((sponsoredProductPos.position - 1), 0, { ...sponsoredProduct, isSponsored: true })
   });
 
-  return products;
+  return [...products];
 }
 
 const getProducts = function (req, res) {
   const { category } = req.params;
-  const sponsoredProducts = _.filter(productDetails, { category: [category], isSponsored: true });
-  const products = _.filter(productDetails, { category: [category], isSponsored: false });
-
+  const categoryProducts = _.filter(productDetails, { category: [category] });
   const sponsoredDetails = sponsoredProductDetails[category]?.products ?? [];
 
-  res.json(mergeSponsoredProduct(products, sponsoredProducts, sponsoredDetails));
+  res.json(mergeSponsoredProduct(categoryProducts, sponsoredDetails));
 };
 
 const getSponsoredBrands = function (req, res) {
   const { category } = req.params;
+
   const sponsoredBrandProducts = _.filter(productDetails, (product) => {
     return (sponsoredBrands[category]?.products ?? []).includes(product.id);
   });
+
   res.json(sponsoredBrandProducts);
+};
+
+const getSponsoredBanners = function (req, res) {
+  const { category } = req.params;
+
+  res.json({ sponsoredBanner: { ...sponsoredBanners[category] } });
 };
 
 const getSearchedProducts = function (req, res) {
   const { input } = req.query;
-  const products = _.filter(productDetails, (product) => {
+
+  const searchedProducts = _.filter(productDetails, (product) => {
     const searchInput = _.lowerCase(input);
     return _.includes(_.lowerCase(product.title), searchInput) || _.includes(product.category, searchInput)
   });
 
-  const sponsoredProductsInSearchResult = _.filter(products, { isSponsored: true });
-  const nonSponsoredProductsInSearchResult = _.filter(products, { isSponsored: false });
   const sponsoredDetails = sponsoredProductDetails[input]?.products ?? [];
 
-  res.json(mergeSponsoredProduct(nonSponsoredProductsInSearchResult, sponsoredProductsInSearchResult, sponsoredDetails))
+  res.json(mergeSponsoredProduct(searchedProducts, sponsoredDetails))
 };
 
 const getProductReviews = function (req, res) {
@@ -98,6 +104,7 @@ module.exports = {
   getProducts,
   getProduct,
   getSponsoredBrands,
+  getSponsoredBanners,
   getSearchedProducts,
   getProductReviews,
   addReview,

@@ -65,5 +65,25 @@
                 "position": 1
             }
         ]
+    },
+    "shoes": {
+        "products": [
+            {
+                "id": "B08G2PL5S3",
+                "position": 1
+            },
+            {
+                "id": "B01MRN1BY4",
+                "position": 4
+            },
+            {
+                "id": "B07MC9QB35",
+                "position": 7
+            },
+            {
+                "id": "B0886HWCBF",
+                "position": 10
+            }
+        ]
     }
 }
