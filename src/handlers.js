@@ -23,8 +23,9 @@ const getProduct = function (req, res) {
 const mergeSponsoredProduct = function (products, sponsoredDetails) {
 
   sponsoredDetails.forEach(sponsoredProductPos => {
-    const sponsoredProductCurrentPos = _.indexOf(products, { id: sponsoredProductPos.id })
-    const sponsoredProduct = products.splice(sponsoredProductCurrentPos, 1)[0];
+    const sponsoredProduct = _.find(products, { id: sponsoredProductPos.id });
+    const sponsoredProductCurrentPos = _.indexOf(products, sponsoredProduct)
+    products.splice(sponsoredProductCurrentPos, 1)[0];
     products.splice((sponsoredProductPos.position - 1), 0, { ...sponsoredProduct, isSponsored: true })
   });
 
